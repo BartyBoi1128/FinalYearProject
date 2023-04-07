@@ -23,14 +23,6 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(firstLevel);
     }
 
-    public void openControlsMenu() { 
-    
-    }
-
-    public void closeControlsMenu() { 
-    
-    }
-
     public void quitGame()
     {
         Application.Quit();
